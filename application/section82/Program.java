@@ -1,6 +1,6 @@
-package section82;
+package application.section82;
 
-import section82.entities.Account;
+import application.section82.entities.Account;
 
 import java.util.Locale;
 import java.util.Scanner;

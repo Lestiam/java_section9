@@ -1,4 +1,4 @@
-package section82.entities;
+package application.section82.entities;
 
 public class Account {
     private int number;
